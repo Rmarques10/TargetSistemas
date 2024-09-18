@@ -1,0 +1,17 @@
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\bin\Debug\net8.0\Teste_Target_Sistemas.exe
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\bin\Debug\net8.0\Teste_Target_Sistemas.deps.json
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\bin\Debug\net8.0\Teste_Target_Sistemas.runtimeconfig.json
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\bin\Debug\net8.0\Teste_Target_Sistemas.dll
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\bin\Debug\net8.0\Teste_Target_Sistemas.pdb
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.AssemblyInfo.cs
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Ta.71AE787C.Up2Date
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.dll
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\refint\Teste_Target_Sistemas.dll
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.pdb
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\Teste_Target_Sistemas.genruntimeconfig.cache
+C:\Users\rafae\source\repos\Teste_Target_Sistemas\Teste_Target_Sistemas\obj\Debug\net8.0\ref\Teste_Target_Sistemas.dll
